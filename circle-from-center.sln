@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "circle-from-center", "circle-from-center\circle-from-center.csproj", "{8B91DC68-6C5D-4691-B207-6E63DA97E1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B91DC68-6C5D-4691-B207-6E63DA97E1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B91DC68-6C5D-4691-B207-6E63DA97E1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B91DC68-6C5D-4691-B207-6E63DA97E1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B91DC68-6C5D-4691-B207-6E63DA97E1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C31EA67-9C0B-4B6A-962E-812F0F155C70}
+	EndGlobalSection
+EndGlobal
